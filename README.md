@@ -1,1 +1,1 @@
-# Pizza-Recipe
+This is the pizza recipe. Additionally, you can add tomato sauce and toppings such as peperoni.
